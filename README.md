@@ -8,13 +8,14 @@
 <p align="left"> <a href="https://twitter.com/dhirajk22831135" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajk22831135?logo=twitter&style=for-the-badge" alt="dhirajk22831135" /></a> </p>
 
 # 💫 About Me:
-**Education**: Recently graduated with a Bachelor's degree in Computer Engineering.<br>
+🖥 **Education**: Recently graduated with a Bachelor's degree in Computer Engineering.<br>
 
-**Job Search**: Actively seeking job opportunities in software development.<br>
+🔍**Job Search**: Actively seeking job opportunities in software development.<br>
 
-**Skills Focus**: Concentrating on enhancing logic-building and development skills.<br>
+💡**Skills Focus**: Concentrating on enhancing logic-building and development skills.<br>
 
-**Primary Language**: Developing proficiency in C++.
+**Primary Language**: Developing proficiency in C++. ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+
 
 
 
