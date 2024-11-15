@@ -7,13 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/dhirajk22831135" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajk22831135?logo=twitter&style=for-the-badge" alt="dhirajk22831135" /></a> </p>
 
-- 🌱 I’m currently learning **Backend services to connect with Android**
+# 💫 About Me:
+**Education**: Recently graduated with a Bachelor's degree in Computer Engineering.<br>
 
-- 💬 Ask me about **c++**
+**Job Search**: Actively seeking job opportunities in software development.<br>
 
-- 📫 How to reach me **dhirajpk28@gmail.com**
+**Skills Focus**: Concentrating on enhancing logic-building and development skills.<br>
 
-- ⚡ Fun fact **tech enthusiast**
+**Primary Language**: Developing proficiency in C++.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
