@@ -14,7 +14,7 @@
 
 💡**Skills Focus**: Concentrating on enhancing logic-building and development skills.<br>
 
- **Primary Language**: Developing proficiency in C++. ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+ **Primary Language**: Developing proficiency in C++.
 
 
 
